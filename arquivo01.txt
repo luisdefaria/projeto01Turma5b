@@ -1,2 +1,4 @@
 Esta é a primeira linha
 Esta é a segunda linha
+Agora é a terceira linha
+Agora é a quarta linha
